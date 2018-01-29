@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlightLogBook</string>
+
+    <string name="log_edit_view_name">LogBookDetail</string>
+</resources>
